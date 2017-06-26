@@ -1,0 +1,549 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 640.0,
+  "height" : 454.0,
+  "version" : "0.5",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia Studio",
+    "platform" : "Windows",
+    "version" : "9.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\Video\\Diply Video - #onedip.MP4",
+      "rect" : [0, 0, 1200, 1200],
+      "lastMod" : "20170519T165604",
+      "sourceTracks" : [
+        {
+          "range" : [0, 343333333],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1200, 1200],
+          "sampleRate" : "1000000/33367",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 343333333],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 24000,
+          "bitDepth" : 16,
+          "numChannels" : 1,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\Ye Duniya Ye Mehfil Mere Kaam Ki Nahi-(Mr-Jatt.com).mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20170520T141242",
+      "sourceTracks" : [
+        {
+          "range" : [0, 4251000000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\reality-2.jpg",
+      "rect" : [0, 0, 631, 300],
+      "lastMod" : "20170520T140824",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 631, 300],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\expectation.jpg",
+      "rect" : [0, 0, 640, 454],
+      "lastMod" : "20170520T140706",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 640, 454],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\source.gif",
+      "rect" : [0, 0, 500, 250],
+      "lastMod" : "20170520T124903",
+      "sourceTracks" : [
+        {
+          "range" : [0, 75],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 500, 250],
+          "sampleRate" : 30,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\giphy.gif",
+      "rect" : [0, 0, 341, 211],
+      "lastMod" : "20170520T143718",
+      "sourceTracks" : [
+        {
+          "range" : [0, 114],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 341, 211],
+          "sampleRate" : 30,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\siddhartha\\Downloads\\peace.jpg",
+      "rect" : [0, 0, 258, 195],
+      "lastMod" : "20170520T144226",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 258, 195],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 8,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 33.6333333333333,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 9,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Ye Duniya Ye Mehfil Mere Kaam Ki Nahi-(Mr-Jatt.com)",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : {
+                        "type" : "double",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : 0.686813186813187,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 1581,
+                            "value" : 0.686813186813187,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 1656,
+                            "value" : 0.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 1657,
+                            "value" : 0.686813186813187,
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1009,
+                    "mediaStart" : 647,
+                    "mediaDuration" : 1009,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 10,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "expectation"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 260,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 11,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 12,
+                          "_type" : "VMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Diply Video - #onedip"
+                          },
+                          "parameters" : {
+                            "scale0" : 0.378333333333333,
+                            "scale1" : 0.378333333333333
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 260,
+                          "duration" : 229,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 229,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 13,
+                          "_type" : "AMFile",
+                          "src" : 1,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 24000,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0",
+                          "effects" : [
+
+                          ],
+                          "start" : 260,
+                          "duration" : 229,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 229,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 260,
+                    "duration" : 229,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1029,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 14,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "reality-2"
+                    },
+                    "parameters" : {
+                      "translation0" : -0.5
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 489,
+                    "duration" : 195,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "VMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "source"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 684,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "VMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "giphy"
+                    },
+                    "parameters" : {
+                      "translation0" : -0.5,
+                      "translation1" : -0.5
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 759,
+                    "duration" : 114,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 114,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "peace"
+                    },
+                    "parameters" : {
+                      "translation1" : -0.5
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "Colorize",
+                          "parameters" : {
+                            "amount" : 1.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.0,
+                            "color-green" : 1.0,
+                            "color-red" : 0.0,
+                            "enabled" : 1,
+                            "mode" : 0
+                          }
+                        }
+                    ],
+                    "start" : 912,
+                    "duration" : 97,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Ripple",
+                    "duration" : 15,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 10,
+                    "rightMedia" : 11
+                  },
+                  {
+                    "name" : "Ripple",
+                    "duration" : 15,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 11,
+                    "rightMedia" : 14
+                  },
+                  {
+                    "name" : "CircleStretch",
+                    "duration" : 15,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 14,
+                    "rightMedia" : 15
+                  },
+                  {
+                    "name" : "CircleStretch",
+                    "duration" : 15,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 15,
+                    "rightMedia" : 16
+                  },
+                  {
+                    "name" : "Glow",
+                    "duration" : 30,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 16
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 23,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\siddhartha\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Project37693d.autosave.tscproj",
+    "CanvasZoom" : 100,
+    "Date" : "2017-05-20 08:01:15 PM",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "sid",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
